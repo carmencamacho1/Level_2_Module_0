@@ -22,10 +22,10 @@ void draw() {
   //7. set the color for your graph
 
   //8. draw a rectangle for each int in your array.
-  //   the x value will be the element of the int
+  //   the x value will be the current index in the array
   //   the y value will the height variable
-  //   the width is 1
-  //   the height is negative the value of the int at that element in the array
+  //   the width is 1 (one)
+  //   the height is negative the value of the element at the current index of the array
 
 
   //9. call the stepSort method
